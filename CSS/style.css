@@ -1,0 +1,10 @@
+* {
+    background-color: #484848;
+}
+
+.WebTitle {
+    text-align: center;
+    font-family: 'Consolas';
+    src: url('/Font/FontConsolas/Consolas.ttf');
+    color: whitesmoke;
+}
